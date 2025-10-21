@@ -582,6 +582,9 @@
   "kortina.vscode-markdown-notes": {
     "repository": "https://github.com/kortina/vscode-markdown-notes"
   },
+  "KristinZhang.super-insert": {
+    "repository": "https://github.com/QueenKunkun/super-insert"
+  },
   "laradump.laradump": {
     "repository": "https://github.com/TheJenos/laradump-vscode"
   },
